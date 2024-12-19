@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">text</string>
+    <string name="long_text"><u>Травка</u> зеленеет,\n<i>Солнышко</i> блестит;\n<b>Ласточка</b> с весною\nВ сени к нам летит.
+
+
+
+</string>
+
+
+<string name="app_name3">text</string>
+<string name="long_text2">
+  \nС нею солнце краше
+\nИ весна милей…
+\nПрощебечь с дороги
+\nНам привет скорей!
+
+</string>
+    <string name="app_name2">text</string>
+    <string name="long_text3">
+        \nДам тебе я зерен,
+        \nА ты песню спой,
+        \n Что из стран далеких
+        \n Принесла с собой…
+</string>
+</resources>
